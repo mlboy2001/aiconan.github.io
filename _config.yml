@@ -77,9 +77,9 @@ navs:
     href: /archives.html
     label: Archives
 
-  -
-    href: /link.html
-    label: Link
+  # -
+  #   href: /link.html
+  #   label: Link
 
   -
     href: /about.html
@@ -90,40 +90,16 @@ navs:
 labels:
 
   -
-    href: /share/2017/10/01/resource-sharing.html
-    name: 资源
+    href: /industry-robot.html
+    name: 工业机器人
 
   -
-    href: /life.html
-    name: 故事
+    href: /coding.html
+    name: C++/C#/Java
 
   -
-    href: /arch.html
-    name: 架构
-    
-  -
-    href: /jvm.html
-    name: Jvm
-
-  -
-    href: /fastdfs.html
-    name: FastDFS
-
-  -
-    href: /mongodb.html
-    name: MongoDB
-
-  -
-    href: /docker.html
-    name: Docker
-
-  -
-    href: /open-source.html
-    name: Code   
-
-  -
-    href: /it.html
-    name: It   
+    href: /iot.html
+    name: IoT
 
 # 精选文章
 classes:
@@ -160,7 +136,7 @@ side_bar_repo_limit: 6 # Number of repos to show
 
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [C#, C++, JS, Java, MySQL, Oracle, Design Patterns]
+skill_software_keywords: [C#, C++, JS, Java, MySQL, Design Patterns]
 
 
 # ---------------- #

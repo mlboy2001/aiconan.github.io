@@ -2,7 +2,7 @@
 layout: page
 title: Coding 系列文章
 titlebar: Coding
-subtitle: TBT
+subtitle: 我是一名软件工程师
 menu: Coding
 css: ['blog-page.css']
 permalink: /coding
