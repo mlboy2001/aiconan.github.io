@@ -1,9 +1,9 @@
 ---
 layout: page
-title: iot 系列文章
-titlebar: iot
+title: IoT 系列文章
+titlebar: IoT
 subtitle: TBT
-menu: iot
+menu: IoT
 css: ['blog-page.css']
 permalink: /iot
 keywords: iot,iiot,big data
