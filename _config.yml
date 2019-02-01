@@ -15,7 +15,7 @@ keywords: 工业机器人,智能应用,运动规划,IoT,大数据,开发者,编�
 encoding: "utf-8"
 favicon: favicon.png 
 
-repository: mlboy2001/mlboy2001.github.io
+repository: mlboy2001/aiconan.github.io
 github_url: https://github.com/mlboy2001
 cnblog_url: 
 url: https://www.aiconan.com/
@@ -159,7 +159,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: mlboy2001
-    repo: mlboy2001.github.io
+    repo: aiconan.github.io
     clientID: cfee7225ea0346d6176d
     clientSecret: 6347b9ee706656199ba98929edde09debaa48bd8
 # 在使用其它评论组件时可点击显示 Disqus
