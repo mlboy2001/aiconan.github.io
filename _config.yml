@@ -18,7 +18,7 @@ favicon: favicon.png
 repository: mlboy2001/mlboy2001.github.io
 github_url: https://github.com/mlboy2001
 cnblog_url: 
-url: https://www.aiconan.com
+url: https://www.aiconan.com/
 enforce_ssl: aiconan.com
 
 ## Gem
@@ -62,16 +62,16 @@ navs:
     label: Home
 
   -
+    href: /industry-robot.html
+    label: Industry Robot
+
+  -
+    href: /coding.html
+    label: Coding
+
+  -
     href: /iot.html
     label: IoT
-
-  -
-    href: /spring-boot.html
-    label: Spring-Boot
-
-  -
-    href: /spring-cloud.html
-    label: Spring-Cloud
 
   -
     href: /archives.html
@@ -125,7 +125,7 @@ labels:
     href: /it.html
     name: It   
 
-# selected articles
+# 精选文章
 classes:
 
   -
