@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Markdown 教程
-categories: coding
+category: coding
 tags: [coding]
 description: 一份简明的 Markdown 笔记与教程
 keywords: Markdown, VSCode
+excerpt: 一份简明的 Markdown 笔记与教程
 ---
 
 **目录**
